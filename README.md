@@ -1,8 +1,9 @@
+
+<img src="./assets/rubel-mahmud.jpg" width="100%" />
+
 # About Me
 
 👋 Hi, I'm Rubel Mahmud (Sujan), a passionate WordPress developer with a deep love for crafting web experiences that are not only visually stunning but also highly functional and user-friendly. I've been immersed in the world of WordPress development since 2019 and have since honed my skills to create elegant, efficient, and secure websites.
-
-<img src="./assets/rubel-mahmud.jpg" width="100%" />
 
 ## What I Do
 
@@ -20,6 +21,8 @@ I'm constantly exploring the latest trends and technologies in web development t
 ## Let's Connect
 
 📫 You can reach out to me through the following channels:
+
+<a href="mailto:vxlrubel@gmail.net"><img src="gmail.svg"></a> <a href="https://www.linkedin.com/in/vxlrubel/"><img src="linkedin.svg"></a> <a href="https://twitter.com/vxlrubel"><img src="twitter.svg"></a> <a href="https://www.facebook.com/rubel.ft.me"><img src="facebook.svg"></a>
 
 - 📧 Email: vxlrubel@programmer.net
 - 💼 LinkedIn: [Rubel Mahmud](https://www.linkedin.com/in/vxlrubel/)

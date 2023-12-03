@@ -22,7 +22,7 @@ I'm constantly exploring the latest trends and technologies in web development t
 
 📫 You can reach out to me through the following channels:
 
-<a href="mailto:vxlrubel@gmail.net"><img src="gmail.svg"></a> <a href="https://www.linkedin.com/in/vxlrubel/"><img src="linkedin.svg"></a> <a href="https://twitter.com/vxlrubel"><img src="twitter.svg"></a> <a href="https://www.facebook.com/rubel.ft.me"><img src="facebook.svg"></a>
+<a href="mailto:vxlrubel@gmail.net"><img src="./assets/gmail.svg"></a> <a href="https://www.linkedin.com/in/vxlrubel/"><img src="./assets/linkedin.svg"></a> <a href="https://twitter.com/vxlrubel"><img src="./assets/twitter.svg"></a> <a href="https://www.facebook.com/rubel.ft.me"><img src="./assets/facebook.svg"></a>
 
 - 📧 Email: vxlrubel@programmer.net
 - 💼 LinkedIn: [Rubel Mahmud](https://www.linkedin.com/in/vxlrubel/)

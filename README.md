@@ -5,7 +5,8 @@
 
 Hi, I'm Rubel Mahmud (Sujan), a passionate WordPress developer with a deep love for crafting web experiences that are not only visually stunning but also highly functional and user-friendly. I've been immersed in the world of WordPress development since 2019 and have since honed my skills to create elegant, efficient, and secure websites.
 
-[Visit my website](https://vxlrubel.github.io/me/)
+[Visit my website](https://vxlrubel.github.io/me/) <span align="left"> <img src="https://komarev.com/ghpvc/?username=vxlrubel&label=Profile%20views&color=0e75b6&style=flat" alt="algaddafy" /> </span>
+
 
 ## I dedicate my time to...
 

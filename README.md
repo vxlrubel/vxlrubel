@@ -28,6 +28,8 @@ I'm constantly exploring the latest trends and technologies in web development t
 
 - MySQL ( Expert )
 - PHP ( Expert )
+- Larabel
+- VueJS
 - Javascript ( Intermidiate )
 - jQuery UI
 - jQuery
@@ -39,8 +41,8 @@ I'm constantly exploring the latest trends and technologies in web development t
 
 💻 I always love to learn new technologies.
 
-- Laravel : PHP framework
-- Vue.js : Javascript framework
+- ReactJS : Javascript library
+- NextJS : React framework
 
 ## Get in contact with me
 
